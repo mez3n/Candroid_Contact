@@ -3,5 +3,4 @@
 
 Welcome to the **Candroid_Contacter** repository! This project is an Android contact app built using Jetpack Compose.
 
-
-![ScreenShot](Images/ScreenShot.png)
+<img src="Images/ScreenShot.pn" alt="Alt text" width="300">
